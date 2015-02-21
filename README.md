@@ -1,6 +1,6 @@
-## Project Assigment for Getting and Cleanning Data
+## Project Assignment for Getting and Cleanning Data
 
-This repository contains artifacts for Project assigment. It contains the following files:
+This repository contains artifacts for Project assignment. It contains the following files:
 * **README.md**: this file
 * **run_analysis.R**: R script that gets and cleans data
 * **code_book.md**: code book describing variables
