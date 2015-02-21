@@ -1,2 +1,4 @@
-# getdata-011
-This repository contains the artifacts for class Proejct
+# Getting and Cleaning Data (getdata-011)
+This repository contains artifacts for class Project
+
+
