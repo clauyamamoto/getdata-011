@@ -1,12 +1,13 @@
- ## Code Book
+**Code Book**
  
  This code book describes the variable shown in Tidy result file, which contains 81 variables
  
- ### Variables:
+ **Variables**
  
  1. Subject: subject who performed the activity for each window sample. Its range is from 1 to 30.
- 2. Activity: Each subject performed six activities (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING)
- * the following features are included in the result file. Each variable contains the average by subject and activity from combined training and testing datasets.
+ 2. Activity: Each subject performed six activities:WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING)
+ 
+* The following variables are the features included in the result file. Only features related to Standard Deviation and Mean of the data collected were captured. Each variable contains the average by *Subject* and *Activity* from combined training and testing datasets. All variables below are within [-1,1].
  3. tBodyAcc-mean()-X              
  4. tBodyAcc-mean()-Y              
  5. tBodyAcc-mean()-Z              
