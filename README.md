@@ -1,4 +1,4 @@
-# Getting and Cleaning Data (getdata-011)
+## Project Assigment for Getting and Cleanning Data
 
 This repository contains artifacts for Project assigment. It contains the following files:
 * run_analysis.R 
@@ -6,7 +6,7 @@ This repository contains artifacts for Project assigment. It contains the follow
 * README.md
 Complete details about Project assigment can be found in the end of this file.
 
-## How run_analysis.R works
+### How run_analysis.R works
 
 #### Pre Requirements
 1. Prior to running the script, download the zip file provided in this link <https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip>
