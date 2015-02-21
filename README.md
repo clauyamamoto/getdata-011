@@ -8,40 +8,42 @@ Complete details about Project assigment can be found in the end of this file.
 
 ## How run_analysis.R works
 
-### Pre Requirements
+#### Pre Requirements
 1. Prior to running the script, download the zip file provided in this link <https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip>
 2. Extract files and save them in your working directory 
 
-### Assumption
+#### Assumption
 All required files are under the folder ./UCI HAR Dataset/ in your working directory
 
-### Part A - read Reference files
+#### Part A - read Reference files
 1. Read features file (UCI HAR Dataset/features.txt)
 2. Reads\ activity labels file (UCI HAR Dataset/activity_labels.txt)
 3. Create a list of features that are related to STD or MEAN
 
-### Part B - read Trainning dataset
+#### Part B - read Trainning dataset
 1. Read training files (UCI HAR Dataset/train/y_train.txt, subject_train.txt, and x_train.txt)
 2. Selects only data points related to STD and MEAN features
 3. Update column names with descriptive feature names
 4. update activity descriptions
 5. Binds training data
 
-### Part C - read Testing dataset
+#### Part C - read Testing dataset
 1. Read training files (UCI HAR Dataset/test/y_test.txt, subject_test.txt, and x_test.txt)
 2. Selects only data points related to STD and MEAN features
 3. Update column names with descriptive feature names
 4. update activity descriptions
 5. Binds testing data
 
-### Part D - merge trainning data and testing data 
+#### Part D - merge trainning data and testing data 
 1. Merge trainning and testing datasets
 2. Calculate  average of each variable for each activity and each subject
 3. Rename columns of the new result set
 
-### Part E - Write Data into a txt file 
+#### Part E - Write Data into a txt file 
 
-### Part F (Optional) - read the file saved to confirm data is as expected
+#### Part F (Optional) - read the file saved to confirm data is as expected
+
+
 
 
 ## Project Assignment Description
