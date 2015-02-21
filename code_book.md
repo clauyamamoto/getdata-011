@@ -1,8 +1,8 @@
- #Code Book
+ ## Code Book
  
  This code book describes the variable shown in Tidy result file, which contains 81 variables
  
- ###Variables:
+ ### Variables:
  
  1. Subject: subject who performed the activity for each window sample. Its range is from 1 to 30.
  2. Activity: Each subject performed six activities (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING)
