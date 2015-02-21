@@ -1,8 +1,8 @@
 **Code Book**
  
- This code book describes the variable shown in Tidy result file, which contains 81 variables as described below.
- The file only includes features related to Standard Deviation and Mean of the data collected.
- Each row is an aggregation by Subject and Activity calculating the average of each feature.
+ * This code book describes the variable shown in Tidy result file, which contains 81 variables as described below.
+ * The file only includes features related to Standard Deviation and Mean of the data collected.
+ * Each row is an aggregation by Subject and Activity calculating the average of each feature.
  
  **Variables**
  
