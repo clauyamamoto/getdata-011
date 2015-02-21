@@ -1,9 +1,10 @@
 ## Project Assigment for Getting and Cleanning Data
 
 This repository contains artifacts for Project assigment. It contains the following files:
-* run_analysis.R 
-* code_book.md
-* README.md
+* README.md: this file
+* run_analysis.R: R script that gets and cleans data
+* code_book.md: code book describing variables
+* Project_result.txt: sample result set of Tidy file
 Complete details about Project assigment can be found in the end of this file.
 
 ### How run_analysis.R works
